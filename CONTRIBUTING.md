@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script to calculate Simple Interest
+# Script to calculate Simple Interest, can use this for finance planning
 
 # Simple Interest formula: (P * R * T) / 100
 # P = Principal, R = Rate of Interest, T = Time (in years)
